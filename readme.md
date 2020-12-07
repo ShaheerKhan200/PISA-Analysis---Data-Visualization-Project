@@ -8,8 +8,8 @@
 > Around 510,000 students in 65 economies took part in the PISA 2012 assessment of reading, mathematics and science representing about 28 million 15-year-olds globally. Of those economies, 44 took part in an assessment of creative problem solving and 18 in an assessment of financial literacy.
 
 Feature Engineering was done to produce:
-> Overall Literacy - *Engineered Variable* (Quantitative)
-> Average Learning Time in mins per Week - *Engineered Variable* (Quantitative)
+> * Overall Literacy - *Engineered Variable* (Quantitative)
+> * Average Learning Time in mins per Week - *Engineered Variable* (Quantitative)
 
 Following Variables were used in the analysis:
 * Grade - Grade compared to modal grade in country (Quantitative).
